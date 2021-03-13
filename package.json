@@ -3,19 +3,18 @@
   "version": "1.0.3",
   "description": "Wrapper for Klaro! cookie consent manager for easy use in Gridsome projects",
   "main": "gridsome.client.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TheFSilverSP/klaro-gridsome.git"
+  "dependencies": {
+    "module": "https://github.com/TheFSilverSP/klaro-gridsome/commit/141102dd1d3554b19600336ef34382286843a71e"
   },
   "keywords": [
     "gridsome",
     "gridsome-plugin",
     "cookie-consent"
   ],
-  "author": "Alistair Shepherd <alistair@accudio.com>",
+  "author": "Alistair Shepherd <alistair@accudio.com> modified TheFSilverSP",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/Accudio/klaro-gridsome/issues"
+    "url": "https://github.com/TheFSilver/klaro-gridsome/issues"
   },
-  "homepage": "https://github.com/Accudio/klaro-gridsome#readme"
+  "homepage": "https://github.com/TheFSilverSP/klaro-gridsome#readme"
 }
