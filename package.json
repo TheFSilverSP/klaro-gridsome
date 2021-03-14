@@ -3,8 +3,9 @@
   "version": "1.0.3",
   "description": "Wrapper for Klaro! cookie consent manager for easy use in Gridsome projects",
   "main": "gridsome.client.js",
-  "dependencies": {
-    "module": "https://github.com/TheFSilverSP/klaro-gridsome/commit/141102dd1d3554b19600336ef34382286843a71e"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFSilverSP/klaro-gridsome.git"
   },
   "keywords": [
     "gridsome",
